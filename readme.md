@@ -1,4 +1,4 @@
-# Evolutionary algorithm
+# Stopwatch for AVR-8bit (ATmega169)
 I wrote this simple stopwatch in assembly language for AVR-8bit (ATmega169) as a project for my Computer Structure and Architecture class.
 
 ## Disclaimer
